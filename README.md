@@ -23,11 +23,11 @@ In this video, learn how to build and deploy a full-stack decentralized Website 
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-blockchain-website-+-file-hosting-dapp-or-code-hosting-dapp-using-next.js-and-pinata-ipfs)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/xKVBtqLbHy0?si=77axe5u0_nXcfmNH)
 
 #### Deploying Dapp
 
@@ -64,8 +64,8 @@ Kindly follow the following Instructions to run the project in your system and i
 #### FINAL SOURCE CODE
 
 ```
-  SETUP VIDEO: https://youtu.be/6hkzT62Oo_8?si=JrxD0q5rfhWp2Gag
-  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-ico-presale-(erc20-token)-dapp-or-solidity-+-next.js-or-binance-polygon-ethereum
+  SETUP VIDEO: https://youtu.be/xKVBtqLbHy0?si=77axe5u0_nXcfmNH
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-blockchain-website-+-file-hosting-dapp-or-code-hosting-dapp-using-next.js-and-pinata-ipfs
 ```
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
